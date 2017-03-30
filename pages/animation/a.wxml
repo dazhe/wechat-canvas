@@ -1,0 +1,1 @@
+<view animation="{{animationData}}" style="background:red;height:20px;width:20px"></view>

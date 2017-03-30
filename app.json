@@ -1,0 +1,24 @@
+{
+  "pages":[
+  
+
+      "pages/z/a",
+     "pages/y/a",
+    
+    "pages/te/a",
+    
+    "pages/dashLine/dash",
+    "pages/second/a",
+    "pages/index/index",
+    "pages/a/a",
+    "pages/animation/a",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#FFF0F5",
+    "navigationBarTitleText": "绘图",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#fbf9fe"
+  }
+}
